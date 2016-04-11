@@ -1,0 +1,306 @@
+#catnav { margin:24px 0 0; }
+
+#browseFilter #navLocation {margin-left:5px; margin-top:-8px;}
+#browseFilter #navPropType {margin-left:2px; margin-top:-8px;}
+
+#findOffice ul li.officeName { margin-right:0px; }
+#findOffice ul li.officeLocation { margin-right:15px; }
+#findOffice ul li.officeName, #findOffice ul li.agentName { margin-right:0;  }
+#findOffice ul li.officeLocation { margin-right: 20px; }
+
+#findTabs li a { margin: 0; }
+#findTabs li.tabOfficeActive a, #findTabs li.tabOffice a { width:165px!important; }
+
+.subBoxes li .subBoxContent { margin-right:0; }
+
+.featProperties li { margin-left:7px; padding-left:4px; }
+.featProperties li.selectedFeature { background:transparent url(../Images/feature-selected.gif) no-repeat scroll 0 0; }
+.featProperties { background: url(../images/feat-list-bg.png) no-repeat 0 0; }
+
+#searchHome li.searchButton { margin:10px 0 0; }
+
+#leftCol .leftColSearch li.priceRange, #leftCol .leftColSearch li.searchButton { padding: 0 0 5px; }
+
+.resources ul li a, a.shortlist, a.openhomeshort, .agent_info p a { color:#3791DA!important; }
+
+.mediaInfo, .photoIcon p { background:transparent url(../images/icons/camera-large.gif) no-repeat scroll 10px 5px; }
+.mediaInfo, .mapIcon p { background:transparent url(../images/icons/googlemap-large.gif) no-repeat scroll 10px 5px; }
+
+.propFeatures h3 { padding: 3px 0 4px; }
+.propFeatures ul { margin: 0; }
+
+.resultTotal { padding: 0 0 5px; margin:-5px 10px 0 0; }
+.resultBar li h3 { padding-bottom: 4px; }
+
+#listView ul li .listingImg a.videotour img { display: none; }
+#listView ul li .listingImg a.videotour { background: url(../images/icons/ie-videotour.gif) no-repeat 0 0; width: 86px; height: 86px; float: left; left: 70px; top: 35px; }
+
+.sIFR-hasFlash .mediaFeatures ul li h2 { margin: 0; }
+.sIFR-hasFlash .subBoxContent h2 { padding-bottom: 5px; }
+
+a.shortlist { background: url(../images/icons/ie-add-blue.png) no-repeat 0 2px; }
+a.shortlist:hover { background: url(../images/icons/ie-add-blue-hover.png) no-repeat 0 2px; }
+
+.listingShw { background: url(../images/ie-listing-shadow.png) no-repeat scroll 0 0; margin-top: -3px; }
+
+#listView ul li.alt .listingShw { background: url(../images/ie-alt-listing-shadow.png) no-repeat scroll 0 0; }
+
+#listTabs #list-v.listActive a:hover { background-position: 0 0; }
+#listTabs #gallery-v.listActive a:hover { background-position: -113px 0; }
+#listTabs #map-v.listActive a:hover { background-position: -230px 0; }
+
+.imageBrowse ul {float:left;height:375px;width:164px;}
+.imageBrowse li.imgScroll_up, .imageBrowse li.imgScroll_down, .imageBrowse li.imgScroll_up-disabled, .imageBrowse li.imgScroll_down-disabled  {height:27px;width:164px;}
+
+#mediaOptions ul li.view_photo a { background-position: -93px -33px!important; }
+#mediaOptions ul li.view_photo a:hover { background-position: -93px -66px!important; }
+
+#mediaOptions ul li.view_virtual_tour a { background-position: -184px -33px!important; }
+#mediaOptions ul li.view_virtual_tour a:hover { background-position: -184px -66px!important; }
+
+#mediaOptions ul li.view_plans a { background-position: -325px -33px!important; }
+#mediaOptions ul li.view_plans a:hover { background-position: -325px -66px!important; }
+
+#mediaOptions ul li.view_map a { background-position: -458px -33px!important; }
+#mediaOptions ul li.view_map a:hover { background-position: -458px -66px!important; }
+#mediaOptions ul li.view_map a.active, #mediaOptions ul li.view_map a.active:hover { background-position: -458px 0!important; }
+
+#browseFilter .navPropType, #browseFilter .navLocation { margin-top: -8px; }
+.teamIntro { margin-left: 10px; }
+
+.ui-tabs-panel div h2 a { color:#FFF!important; }
+.ui-tabs-panel div h3 a { color:#DDE5F0!important; text-decoration:underline!important; }
+
+.blogsFeed ul { padding-bottom:10px; }
+.newsItems h4 { padding:0 0 0px 15px; margin-left: 10px; }
+.blogsFeed ul li h2 a { color:#353535!important; }
+
+#searchHome li.searchFilter select.filterMax { margin-left:7px; }
+
+.featProperties li .moreTag { margin:-55px 0 0 0; }
+
+.sIFR-hasFlash .mediaFeatures ul li h2 {
+    line-height: 5px;
+	margin-bottom: 5px;
+    font-size: 10px;
+}
+#leftCol .leftColSearch li.searchHead { margin-bottom:0; }
+#leftCol .leftColSearch li.searchFilter select { padding: 2px 2px 5px;}
+
+#galleryView ul li div.openhome { margin-left: 1px; }
+#galleryView ul li .listingContent { position: relative; }
+#galleryView ul.listingOptions { position: relative;  }
+
+#footer ul { width: 1100px; }
+
+.accBody, .formHeader, #accForm { overflow: hidden; width: 675px; }
+#accForm li input { width: 280px; }
+#accForm li .checkbox {background:none!important; border: 0!important; padding: 0!important; }
+
+#sitedropBox li ul li { margin-left: 5px; }
+
+#accSidebar.accSidebarFeature ul li.regNews { background:transparent url(../images/icons/icon-latest-news.png) no-repeat scroll 5px 0!important; }
+
+#browseFilter li ul { height:200px; }
+
+.accBody .favouriteSearches .search { width: 640px; }
+.accBody .favouriteSearches .alerts li { width:620px; }
+
+.mediaFeatures { width: 322px!important; float: right; overflow: hidden; }
+.mediaFeatures ul { float: left; width: 100%; }
+.mediaFeatures ul li { float: left; }
+
+#fancybox-title { bottom: 9px!important; }
+
+
+.naiHarcourts .skip { display: none; }
+.naiHarcourts input#btnSearch, .naiHarcourts input#btnSearch:focus, .naiHarcourts input#btnSearch:active {
+	letter-spacing: 999em!important;
+}
+.naiHarcourts #topNav  {
+	height:auto!important;
+	padding:5px 0!important;
+}
+.naiHarcourts #topNav #myAccountNav {
+	height:auto!important;
+	line-height:inherit!important;
+	padding:0!important;
+}
+.naiHarcourts #myAccountNav li {
+	background: url(../images/bar-spacer-blue.gif) no-repeat right 9px;
+}
+.naiHarcourts #mainNav ul.dropdown {
+	position: relative;
+	z-index: 2;
+}
+.naiHarcourts #mainNav ul.dropdown ul {
+	top: 51px;
+}
+.naiHarcourts #mainNav ul li {
+	background-position: right center;
+}
+.naiHarcourts #tabs {
+	z-index: 1;
+}
+.naiHarcourts #footer {
+	margin: 40px 0 25px;
+}
+
+
+/* Landmark Harcourts Specific */
+
+body.landmarkHarcourts #page { overflow: hidden!important; }
+
+body.landmarkHarcourts #topNav { z-index: 9999!important; position: relative; }
+body.landmarkHarcourts #header { z-index: 999!important; }
+
+body.landmarkHarcourts #home_subFeatures h2.boxTitle { padding: 0 0 15px; }
+body.landmarkHarcourts #home_subFeatures h2.boxTitle .linkRight { margin-top: -30px; }
+
+body.landmarkHarcourts #homeFeature { position: relative; z-index 1; }
+body.landmarkHarcourts #homeFeature #featured { position: absolute; z-index: 1; left: 0; top: 0; }
+body.landmarkHarcourts .featProperties,
+body.landmarkHarcourts .featImg { z-index: 1!important; }
+
+body.landmarkHarcourts #home_subFeatures {
+    overflow: hidden!important;
+}
+body.landmarkHarcourts .listingBoxWrapper {
+    width: 980px!important;
+    height: 225px!important;
+    overflow: hidden!important;
+    position: static;
+    z-index: 500;
+}
+body.landmarkHarcourts #home_subFeatures #scroller {
+    left: 0;
+}
+body.landmarkHarcourts #quickSearch .btn,
+body.landmarkHarcourts .searchButton .btn {
+    letter-spacing: 999em;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub {
+    left: -432px;
+    width: 760px!important;
+    z-index: 9999!important;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro {
+    z-index: 9999!important;
+    position: relative;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro p {
+    width: 340px;
+    float: right;
+    margin-right: 20px;
+}
+body.landmarkHarcourts .navMainContainer ul { position: relative; z-index: 999!important; }
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro ul {
+    width: 100%;
+    clear: both;
+}
+body.landmarkHarcourts .navMainContainer ul li .sub {
+    left: -694px;
+    z-index: 999!important;
+}
+body.landmarkHarcourts .navMainContainer ul li.first .sub {
+	left: -299px;
+	z-index: 999!important;
+}
+body.landmarkHarcourts #home_subFeatures #scroller #scrollLeft { left: -25px; }
+body.landmarkHarcourts #home_subFeatures #scroller #scrollRight { right: -25px; }
+
+/* END Landmark Harcourts Specific */
+
+/* Office/Consultant Project Specific */
+
+body.projWildFire #contactOptions li {
+	background: url(../Areas/WebsiteContent/images/bar-grey.gif) no-repeat right 4px;
+}
+body.projWildFire .mainToolbar input.pageDelete,
+body.projWildFire .mainToolbar input.publishSite,
+body.projWildFire .mainToolbar input.pageRestore {
+	letter-spacing: 999em;
+	font-size: 1px;
+	color: #EEE;
+}
+body.projWildFire .menu {
+	z-index: 999!important;
+}
+body.projWildFire ul#mainNav.dropdown ul {
+    top: 56px;
+	border-bottom: 0;
+}
+body.projWildFire .featuredPropertiesWidgetOuter {
+	margin: 0 0 20px!important;
+}
+body.projWildFire #mainNav li.first,
+body.projWildFire #mainNav li.first:hover {
+	margin: 0 10px 0 5px!important;
+	padding: 0!important;
+}
+body.projWildFire #mainNav li.first a,
+body.projWildFire #mainNav li.first a:hover {
+	padding: 18px 3px 17px 0!important;
+}
+body.projWildFire #mainNav li.first a {
+	background-position: 0 18px;
+}
+body.projWildFire #mainNav li.first a:hover,
+body.projWildFire #mainNav li.first:hover a {
+	background-position: 0 19px;
+}
+body.projWildFire #mainNav li a {
+	padding: 16px 15px 20px!important;
+	margin-top: 1px;
+}
+body.projWildFire #mainNav li a:hover,
+body.projWildFire #mainNav li.hover a {
+	padding: 17px 15px 20px!important;
+}
+body.projWildFire #mainNav li ul li,
+body.projWildFire #mainNav li.hover ul li {
+	margin: 1px 0 0!important;
+	border-top: 0!important;
+	border-bottom: 1px solid #DDD!important;
+}
+body.projWildFire #mainNav li ul li:hover,
+body.projWildFire #mainNav li.hover ul li:hover {
+	margin: 1px 0 0!important;
+	border-top: 0!important;
+	padding: 11px 20px 9px!important;
+	border-bottom: 1px solid #DDD!important;
+}
+body.projWildFire #mainNav li ul li a {
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 0 22px!important;
+	padding: 0 0 0 15px;
+}
+body.projWildFire #mainNav li ul li a:hover {
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 1px 22px!important;
+	padding: 0 0 0 15px;
+}
+body.projWildFire .listingSearchFormWidgetContent ul.leftColSearch li input#searchKeyword,
+body.projWildFire .listingSearchFormWidgetContent ul#searchHome li input#searchKeyword {
+	line-height: 20px;
+}
+body.projWildFire #oneColContainerLeft .textWidgetOuter,
+body.projWildFire #twoColContainerRight .textWidgetOuter,
+body.projWildFire #threeColContainer .textWidgetOuter,
+body.projWildFire #oneColContainerLeft .navigationWidgetOuter,
+body.projWildFire .rssWidgetOuter,
+body.projWildFire .twitterWidgetOuter,
+body.projWildFire .linkedinWidgetOuter,
+body.projWildFire .listingSearchFormWidgetOuter,
+body.projWildFire #oneColContainerLeft .bannerWidgetOuter {
+    margin: 0 0 5px!important;
+}
+body.projWildFire .siteSettings ul li.settingSpacer {
+	width: 550px!important;
+}
+body.projWildFire .siteSettings ul li select#BrandID {
+    margin-left: 18px!important;
+	border: 1px solid red;
+	padding: 2px;
+}
+
+
+

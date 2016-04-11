@@ -1,0 +1,141 @@
+#leftCol .leftColSearch li input#searchKeyword {padding:9px 6px 0; margin:0;}
+#office_agentForm li input {white-space:normal!important;}
+#office_agentForm li.frmEnquiry textarea {padding:5px;height: 122px;}
+#browseFilter a { padding: 5px 5px 4px 6px; }
+#catnav {margin:24px 0 0;}
+.home input#searchKeyword {padding-top: 8px; margin:0; height:23px;}
+.listingInfoWindow .viewControls .counter {top: 11px;}
+
+/* =============== | Websites | ===============  */
+ul.dropdown li.hover, ul.dropdown li:hover { top: -1px; }
+.menuTreeNode input { margin: 70px 0 0 12px; float: left; }
+.menuTreeNode label { margin-left: -25px; } 
+.itemTable { table-layout: fixed; }      
+/* =============== | Websites | ===============  */
+
+
+
+/* Landmark Harcourts Specific */
+
+body.landmarkHarcourts #siteSwitcher ul li .sub {
+    left: -471px;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro {
+    width: 580px;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro p {
+    width: 370px;
+    float: right;
+    margin-right: 60px;
+}
+body.landmarkHarcourts .navMainContainer ul li .sub {
+    left: -694px;
+}
+body.landmarkHarcourts .navMainContainer ul li.first .sub {
+	left: -299px;
+}
+body.landmarkHarcourts #accForm li .checkbox {
+    margin-top: 3px;
+}
+
+/* END Landmark Harcourts Specific */
+
+/* Office/Consultant Project Specific */
+
+body.projWildFire ul#mainNav.dropdown ul {
+    top: 56px;
+}
+body.projWildFire .mainToolbar input.pageDelete,
+body.projWildFire .mainToolbar input.publishSite,
+body.projWildFire .mainToolbar input.pageRestore {
+	letter-spacing: 999em;
+	font-size: 1px;
+	color: #EEE;
+}
+body.projWildFire .menu {
+	z-index: 999!important;
+}
+body.projWildFire #mainNav li.first,
+body.projWildFire #mainNav li.first:hover {
+	margin: 0 10px 0 5px!important;
+	padding: 0!important;
+}
+body.projWildFire #mainNav li.first a,
+body.projWildFire #mainNav li.first a:hover {
+	padding: 18px 3px 17px 0!important;
+}
+body.projWildFire #mainNav li.first a {
+	background-position: 0 18px;
+}
+body.projWildFire #mainNav li.first a:hover,
+body.projWildFire #mainNav li.first:hover a {
+	background-position: 0 19px;
+}
+body.projWildFire #mainNav li a {
+	padding: 16px 15px 20px!important;
+	margin-top: 1px;
+}
+body.projWildFire #mainNav li a:hover,
+body.projWildFire #mainNav li.hover a {
+	padding: 17px 15px 20px!important;
+}
+body.projWildFire #mainNav li ul li,
+body.projWildFire #mainNav li.hover ul li {
+	margin: 1px 0 0!important;
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+body.projWildFire #mainNav li li a,
+body.projWildFire #mainNav li li a:hover,
+body.projWildFire #mainNav li:hover li a {
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 0 16px!important;
+	width: 145px!important;
+	margin: 0 0 0 20px!important;
+	border: 0!important;
+	padding: 10px 0 10px 15px!important;
+}
+body.projWildFire .listingSearchFormWidgetContent ul.leftColSearch li input#searchKeyword,
+body.projWildFire .listingSearchFormWidgetContent ul#searchHome li input#searchKeyword {
+	line-height: 32px!important;
+}
+body.projWildFire #footer .bannerWidgetOuter ul.widgetToolbar ul {
+    top: 26px!important;
+}
+body.projWildFire .listingInfoWindow .viewControls a {
+    line-height: 24px;
+}
+body.projWildFire #twoColContainerRight .formInput .fieldContent.radiobuttonGroup table td input.radioButton,
+body.projWildFire #twoColContainerRight .formInput .fieldContent.checkboxGroup input.checkbox,
+body.projWildFire #oneColContainerLeft .fieldContent.radiobuttonGroup table td input,
+body.projWildFire #oneColContainerLeft .formInput .fieldContent.checkboxGroup .checkbox {
+    margin: 4px 0 0;
+}
+body.projWildFire .dialogContent .formWidget .notifications li input.textboxLrge.first {
+    line-height: 20px;
+}
+
+
+.sidebarContentEdit .wysiwyg iframe {
+    width: 255px !important;
+}
+.sidebarContentEdit .wysiwyg iframe html {
+    width: 255px !important;
+}
+body.wysiwyg.sidebarContentEdit {
+    width: 253px !important;
+    background: #FFF !important;
+}
+body.wysiwyg.sidebarContentEdit p,
+body.wysiwyg.sidebarContentEdit blockquote,
+body.wysiwyg.sidebarContentEdit table,
+body.wysiwyg.sidebarContentEdit ul,
+body.wysiwyg.sidebarContentEdit ol {
+    width: auto !important;
+}
+body.projWildFire .dialogContent .formWidget .editField .dropInputs input {
+    padding: 5px 10px 4px;
+}
+
+
+

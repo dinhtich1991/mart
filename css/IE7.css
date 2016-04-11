@@ -1,0 +1,384 @@
+#office_agentForm li { margin-bottom:20px!important; }
+.featProperties li { background: #000 url(../images/dot-grey.gif) repeat-x scroll left bottom; }
+.skip { display: none; }
+#searchHome li { margin-bottom:5px; }
+#searchHome li.searchButton { margin:9px 0 0; }
+#searchHome li.searchFilter {margin:6px 0 0;}
+#sitedropBox li:hover{position: static;}
+#leftCol .leftColSearch li input#searchKeyword {padding:9px 6px 0;}
+.home input#searchKeyword {padding-top: 8px; margin:0; height:23px;}
+#catnav  {margin:24px 0 0;}
+.cmsContent .featureOverview ul li h4 {float: left; width: 100%;}
+.commercial #leftCol .leftColSearch li input#searchKeyword { height: 26px; }
+#leftCol .leftColSearch li#rentOrSaleRadios {margin:0 0 8px;}
+#scroller ul li {
+	display: inline;
+	margin: 7px 5px 0;
+}
+#scroller {
+    margin-top: -225px;
+    position: relative;
+}
+#scroller a,
+#scroller a:active {
+	outline: 0!important;
+}
+.listingInfoWindow .viewControls .counter {top: 11px;}
+
+/* NAI Harcourts Specific */
+
+.naiHarcourts .skip { display: none; }
+.naiHarcourts input#btnSearch, .naiHarcourts input#btnSearch:focus, .naiHarcourts input#btnSearch:active {
+	letter-spacing: 999em!important;
+}
+.naiHarcourts #topNav  {
+	height:auto!important;
+	padding:5px 0!important;
+}
+.naiHarcourts #topNav #myAccountNav {
+	height:auto!important;
+	line-height:inherit!important;
+	padding:0!important;
+}
+.naiHarcourts #myAccountNav li {
+	background: url(../images/bar-spacer-blue.gif) no-repeat right 9px;
+}
+.naiHarcourts #mainNav ul.dropdown {
+	position: relative;
+	z-index: 2;
+}
+.naiHarcourts #mainNav ul.dropdown ul {
+	top: 51px;
+}
+.naiHarcourts #mainNav ul li {
+	background-position: right center;
+}
+.naiHarcourts #tabs {
+	z-index: 1;
+}
+.naiHarcourts #footer {
+	margin: 40px 0 25px;
+}
+
+/* Landmark Harcourts Specific */
+
+body.landmarkHarcourts #page { overflow: hidden!important; }
+
+body.landmarkHarcourts #topNav { z-index: 9999!important; position: relative; }
+body.landmarkHarcourts #header { z-index: 999!important; }
+
+body.landmarkHarcourts #home_subFeatures h2.boxTitle { padding: 0 0 15px; }
+body.landmarkHarcourts #home_subFeatures h2.boxTitle .linkRight { margin-top: -30px; }
+
+body.landmarkHarcourts #homeFeature { position: relative; z-index 1; }
+body.landmarkHarcourts #homeFeature #featured { position: absolute; z-index: 1; left: 0; top: 0; }
+body.landmarkHarcourts .featProperties,
+body.landmarkHarcourts .featImg { z-index: 1!important; }
+
+body.landmarkHarcourts #home_subFeatures {
+    overflow: hidden!important;
+}
+body.landmarkHarcourts .listingBoxWrapper {
+    width: 980px!important;
+    height: 225px!important;
+    overflow: hidden!important;
+    position: static;
+    z-index: 500;
+}
+body.landmarkHarcourts #home_subFeatures #scroller {
+    left: 0;
+}
+body.landmarkHarcourts #quickSearch .btn,
+body.landmarkHarcourts .searchButton .btn {
+    letter-spacing: 999em;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub {
+    left: -432px;
+    width: 760px!important;
+    z-index: 9999!important;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro {
+    z-index: 9999!important;
+    position: relative;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro p {
+    width: 340px;
+    float: right;
+    margin-right: 20px;
+}
+body.landmarkHarcourts .navMainContainer ul { position: relative; z-index: 999!important; }
+body.landmarkHarcourts #siteSwitcher ul li .sub .sitesIntro ul {
+    width: 100%;
+    clear: both;
+}
+body.landmarkHarcourts .navMainContainer ul li .sub {
+    left: -694px;
+    z-index: 999!important;
+}
+body.landmarkHarcourts .navMainContainer ul li.first .sub {
+	left: -299px;
+	z-index: 999!important;
+}
+body.landmarkHarcourts #scroller a#scrollLeft, #scroller a#scrollRight { top: 25px; }
+body.landmarkHarcourts #home_subFeatures #scroller #scrollLeft { left: -25px; }
+body.landmarkHarcourts #home_subFeatures #scroller #scrollRight { right: -25px; }
+
+/* END Landmark Harcourts Specific */
+
+/* Office/Consultant Project Specific */
+
+body.projWildFire #contactOptions li {
+	background: url(../Areas/WebsiteContent/images/bar-grey.gif) no-repeat right 4px;
+}
+body.projWildFire .mainToolbar input.pageDelete,
+body.projWildFire .mainToolbar input.publishSite,
+body.projWildFire .mainToolbar input.pageRestore {
+	letter-spacing: 999em;
+	font-size: 1px;
+	color: #EEE;
+}
+body.projWildFire .menu {
+	z-index: 999!important;
+}
+body.projWildFire #mainNav li.first,
+body.projWildFire #mainNav li.first:hover {
+	margin: 0 10px 0 5px!important;
+	padding: 0!important;
+}
+body.projWildFire #mainNav li.first a,
+body.projWildFire #mainNav li.first a:hover {
+	padding: 18px 3px 17px 0!important;
+}
+body.projWildFire #mainNav li.first a {
+	background-position: 0 18px;
+}
+body.projWildFire #mainNav li.first a:hover,
+body.projWildFire #mainNav li.first:hover a {
+	background-position: 0 18px;
+}
+body.projWildFire #mainNav li a {
+	padding: 16px 15px 20px!important;
+	margin-top: 1px;
+}
+body.projWildFire #mainNav li a:hover,
+body.projWildFire #mainNav li.hover a {
+	padding: 16px 15px 20px!important;
+}
+body.projWildFire #mainNav li ul li {
+	padding: 0;
+}
+body.projWildFire #mainNav li li a,
+body.projWildFire #mainNav li li a:hover,
+body.projWildFire #mainNav li:hover li a {
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 0 16px!important;
+	width: 145px!important;
+	margin: 0 0 0 20px!important;
+	border: 0!important;
+	padding: 10px 0 10px 15px!important;
+}
+
+body.projWildFire .siteSettings ul li.addImage .imgSettings .bgTile input {
+    padding: 0!important;
+	background: none!important;
+    border: 0!important;
+	margin: 0;
+}
+body.projWildFire .siteSettings ul li.addImage .imgSettings .bgTile label {
+	width: 92px;
+	float: right;
+}
+body.projWildFire .siteSettings ul li.addImage .imgSettings .bgTile span {
+	clear: none!important;
+	width: 92px;
+}
+body.projWildFire .siteSettings ul li.addImage .imgSettings .bgColor span {
+    width: 140px!important;
+}
+body.projWildFire .siteSettings ul li.addImage .imgSettings .imgUploader span {
+    width: 225px!important;
+	margin-top: -32px;
+}
+body.projWildFire #siteSettingTabs ul.widgetGroupInner {
+    margin: 0 0 20px!important;
+}
+body.projWildFire .featuredPropertiesWidgetOuter {
+	margin: 0 0 20px!important;
+}
+
+body.projWildFire .listingSearchFormWidgetContent ul.leftColSearch li input#searchKeyword,
+body.projWildFire .listingSearchFormWidgetContent ul#searchHome li input#searchKeyword {
+	line-height: 20px;
+}
+body.projWildFire #oneColContainerLeft .textWidgetOuter,
+body.projWildFire #twoColContainerRight .textWidgetOuter,
+body.projWildFire #threeColContainer .textWidgetOuter,
+body.projWildFire #oneColContainerLeft .navigationWidgetOuter,
+body.projWildFire .rssWidgetOuter,
+body.projWildFire .twitterWidgetOuter,
+body.projWildFire .linkedinWidgetOuter,
+body.projWildFire .listingSearchFormWidgetOuter,
+body.projWildFire #oneColContainerLeft .bannerWidgetOuter {
+    margin: 0 0 5px!important;
+}
+body.projWildFire .siteSettings ul li.settingSpacer {
+	width: 550px!important;
+}
+body.projWildFire .siteSettings ul li select#BrandID {
+    margin-left: 18px!important;
+	border: 1px solid red;
+	padding: 2px;
+}
+
+body.projWildFire #siteSettingTabs ul.widgetGroupInner {
+    margin: 0 0 20px!important;
+	padding: 0 0 20px!important;
+}
+
+body.projWildFire #footer .bannerWidgetOuter ul.widgetToolbar ul {
+    top: 7px!important;
+}
+body.projWildFire .textWidgetContent ol {
+    padding-left: 22px;
+}
+body.projWildFire body.wysiwyg ol {
+    margin-left: 40px;
+}
+body.projWildFire #threeColContainer .addWidget {
+    margin: 15px 0!important;
+}
+body.projWildFire #mediaOptions ul li a {
+    line-height: 38px;
+}
+body.projWildFire .listingSearchFormWidgetOuter.sidebarBox .listingSearchFormWidget {
+    margin: 0 0 20px!important;
+}
+body.projWildFire .dialogContent ul li div.listings .listingsContent,
+body.projWildFire .dialogContent ul li div.banners .bannersContent {
+    width: 510px;    
+}
+body.projWildFire .dialogContent ul li div.listings .listingsContent h4.title a,
+body.projWildFire .dialogContent ul li div.banners .bannersContent h4.title a {
+    margin-top: -20px;
+}
+body.projWildFire #treeviewPages li .page,
+body.projWildFire#treeviewPages li .page.pageDeleted,
+body.projWildFire #treeviewPages li .systemPage,
+body.projWildFire #treeviewPages li .systemPage.pageHiddenBySystem {
+    height: auto;
+}
+body.projWildFire #treeviewPages li li img {
+    margin-top: -35px;
+}
+body.projWildFire .treeview li li.last img {
+    margin-top: -29px!important;
+}
+
+/* =============== | Websites | ===============  */
+
+body.projWildFire .headerWrap,
+body.projWildFire .menuWrap { z-index: 98 !important; }
+body.projWildFire .menu { position: relative !important; z-index: 9999; }
+body.projWildFire .menuWrap { top: -220px !important; }
+body.projWildFire ul.dropdown { top: 145px !important; }
+/*ul.dropdown li.hover, ul.dropdown li:hover { top: -1px; }*/
+body.projWildFire #mainNav { top: 190px !important; }
+body.projWildFire .menuTreeNode input { margin: 53px 0 0 5px; float: left; }
+body.projWildFire .menuTreeNode label { text-align: center; width: 80px; margin-left: 0px; }  
+body.projWildFire ul.addWidget,
+body.projWildFire #threeColContainer .textWidgetOuter { float: none; }  
+body.projWildFire #threeColContainer .addWidget,
+body.projWildFire #oneColContainerLeft .textWidgetOuter,
+body.projWildFire .rssWidgetOuter, 
+body.projWildFire .twitterWidgetOuter, 
+body.projWildFire #twoColContainerRight .textWidgetOuter, 
+body.projWildFire #threeColContainer .textWidgetOuter, 
+body.projWildFire #oneColContainerLeft .navigationWidgetOuter { padding: 0 0 15px; }
+body.projWildFire form.wysiwyg label.uploader,
+body.projWildFire form.wysiwyg label.flash,
+body.projWildFire form.wysiwyg div.flash,
+body.projWildFire form.wysiwyg label.media,
+body.projWildFire form.wysiwyg div.media { float: right; }
+body.projWildFire form.wysiwyg label.flash,
+body.projWildFire form.wysiwyg div.flash,
+body.projWildFire form.wysiwyg label.media,
+body.projWildFire form.wysiwyg div.media { width: 250px; }
+body.projWildFire #oneColContainerLeft ul.widgetToolbar { left: -40px; }
+body.projWildFire #threeColContainer,
+body.projWildFire .listingSearchFormWidgetOuter { margin: 0 0 20px!important; }
+body.projWildFire #panelBox.formResultsDisplay .resultsHeader .inactive input {
+    margin: 2px 0 0;
+}
+body.projWildFire #panelBox.formResultsDisplay .resultsHeader .inactive {
+    width: 170px;
+}
+body.projWildFire #panelBox.formResultsDisplay .inactive label {
+    width: 130px;
+}
+body.projWildFire .dialogContent .formWidget ul.formHeader span {
+     width: 100%;
+}
+body.projWildFire .dialogContent .formWidget ul li div.formFields input.radioButton {
+    margin-top: -2px;
+}
+body.projWildFire .dialogContent .formWidget ul li div.formFields input.checkbox {
+    border: 0!important;
+}
+body.projWildFire .dialogContent .formWidget ul li div.formFields label.checkbox {
+    margin: -20px 0 0;
+}
+body.projWildFire .dialogContent .formWidget .widgetToolbar {
+    margin: 0!important;
+    top: 0;
+}
+body.projWildFire .dialogContent .formWidget .widgetToolbar.dropdown {
+    margin: 0!important;
+    top: 0;
+}
+body.projWildFire .dialogContent .formWidget .notifications li input.textboxLrge.first {
+    line-height: 20px;
+}
+body.projWildFire .dialogContent .formWidget .editField ul li.options {
+    padding: 0 0 5px;
+    margin: 5px 0 0;
+}
+body.projWildFire .dialogContent .formWidget .editField ul li.options a.optionAdd {
+    width: 200px;
+}
+body.projWildFire .dialogContent .formWidget .editField label.checkbox.setRequired {
+    margin: 10px 0 0 5px;
+}
+body.projWildFire .dialogContent .formWidget .editField .dropInputs input {
+    padding: 5px 10px 4px;
+}
+body.projWildFire .feature-banner .slider1 {
+    width: 710px;
+    float: left;
+}
+body.projWildFire .feature-banner .panel {
+    width: 710px;
+}
+body.projWildFire .feature-banner .anythingControls ul li {
+    display: inline;
+}
+/* =============== | Websites | ===============  */
+
+.sidebarContentEdit .wysiwyg iframe {
+    width: 255px !important;
+}
+.sidebarContentEdit .wysiwyg iframe html {
+    width: 255px !important;
+}
+body.wysiwyg.sidebarContentEdit {
+    width: 253px !important;
+    background: #FFF !important;
+}
+body.wysiwyg.sidebarContentEdit p,
+body.wysiwyg.sidebarContentEdit blockquote,
+body.wysiwyg.sidebarContentEdit table,
+body.wysiwyg.sidebarContentEdit ul,
+body.wysiwyg.sidebarContentEdit ol {
+    width: auto !important;
+}
+
+
+

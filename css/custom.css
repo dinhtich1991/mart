@@ -1,0 +1,11 @@
+/* CSS Document */
+.listingDetail #detailMedia{
+	 border:none !important;
+}
+.listingDetail #mediaContainer{
+	padding:0px 15px 15px 15px;
+	}
+#ajax-contact,#ajax-add{
+	color:red;
+	}
+

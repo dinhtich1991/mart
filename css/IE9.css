@@ -1,0 +1,88 @@
+#catnav { margin: 24px 0 0; }
+.listingInfoWindow .viewControls .counter {top: 11px;}
+
+/* Landmark Harcourts Specific */
+
+body.landmarkHarcourts #siteSwitcher ul li.siteDropLink a.siteDropLinkBtn {
+    background-position: 95px 15px;
+}
+body.landmarkHarcourts #siteSwitcher ul li.siteDropLink a.siteDropLinkBtn:hover,
+body.landmarkHarcourts #siteSwitcher ul li.siteDropLink a.siteDropLinkBtn:active {
+    background-position: 95px 15px;
+}
+body.landmarkHarcourts #siteSwitcher ul li .sub {
+    left: -424px;
+}
+
+/* END Landmark Harcourts Specific */
+
+/* Office/Consultant Project Specific */
+
+body.projWildFire .listingSearchFormWidgetContent ul.leftColSearch li input#searchKeyword,
+body.projWildFire .listingSearchFormWidgetContent ul#searchHome li input#searchKeyword {
+	line-height: 32px!important;
+}
+body.projWildFire #searchTop input {
+	padding: 11px 0 0 15px;
+}
+body.projWildFire #mainNav li.hover a ul li a,
+body.projWildFire #mainNav li ul li a {
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 0 4px!important;
+}
+body.projWildFire #mainNav li ul li a:hover {
+	color: #2A81C7!important;
+	background: url(../Areas/WebsiteContent/Images/arrow-pixel-blue.gif) no-repeat 1px 4px!important;
+}
+body.projWildFire #footer .bannerWidgetOuter ul.widgetToolbar ul {
+    top: 9px!important;
+}
+body.projWildFire body.wysiwyg.mainContentEdit {
+    padding: 25px 65px !important;
+}
+body.projWildFire .listingInfoWindow ul li.propImg .propFeatures ul li {
+    margin: 0 10px 0 4px;
+}
+body.projWildFire .listingInfoWindow ul li.propImg .propFeatures ul li.last {
+    margin: 0;
+}
+body.projWildFire .listingInfoWindow .viewControls a {
+    line-height: 24px;
+}
+body.projWildFire #photoBrowse {
+    overflow: hidden;
+}
+body.projWildFire #oneColContainerLeft .textWidget .textWidgetContent p, 
+body.projWildFire .sidebarContent p {
+	clear: both;
+}
+body.projWildFire #twoColContainerRight .formInput .fieldContent.radiobuttonGroup table td input.radioButton,
+body.projWildFire #twoColContainerRight .formInput .fieldContent.checkboxGroup input.checkbox,
+body.projWildFire #oneColContainerLeft .fieldContent.radiobuttonGroup table td input,
+body.projWildFire #oneColContainerLeft .formInput .fieldContent.checkboxGroup .checkbox {
+    margin: 3px 0 0;
+}
+
+
+
+
+
+.sidebarContentEdit .wysiwyg iframe {
+    width: 255px !important;
+}
+.sidebarContentEdit .wysiwyg iframe html {
+    width: 255px !important;
+}
+body.wysiwyg.sidebarContentEdit {
+    width: 253px !important;
+    background: #FFF !important;
+}
+body.wysiwyg.sidebarContentEdit p,
+body.wysiwyg.sidebarContentEdit blockquote,
+body.wysiwyg.sidebarContentEdit table,
+body.wysiwyg.sidebarContentEdit ul,
+body.wysiwyg.sidebarContentEdit ol {
+    width: auto !important;
+}
+
+
+
